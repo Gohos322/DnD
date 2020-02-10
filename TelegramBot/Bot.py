@@ -8,7 +8,8 @@ from bs4 import BeautifulSoup
 import urllib.request
 
 #===============================================================================
-# start - activate the bot
+# Command List
+
 # session - reports the day and hour of the next session
 # compendium - provides the roll20.net link pointing to the word or words following the command
 # version - provides the changelog of the current version
